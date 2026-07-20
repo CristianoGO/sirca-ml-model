@@ -1,4 +1,4 @@
-# 🌾 SIRCA — Modelo de Machine Learning
+# SIRCA — Modelo de Machine Learning
 
 Este repositório contém o código-fonte, scripts de pré-processamento, engenharia de recursos (feature engineering) e os artefatos de treinamento do modelo de Machine Learning utilizado pelo sistema **SIRCA** (*Sistema Inteligente de Recomendação de Culturas Agrícolas*).
 
